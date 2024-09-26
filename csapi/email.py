@@ -1,0 +1,1 @@
+"""Handles email message creation."""
